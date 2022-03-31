@@ -1,2 +1,2 @@
 # Arduino-Projects
-Hobby Electronics
+Hobby electronic projects implemented with an Arduino Duo.
